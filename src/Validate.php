@@ -9,10 +9,10 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
-namespace think;
+namespace tp51;
 
 use SplFileObject;
-use think\validate\ValidateRule;
+use tp51\validate\ValidateRule;
 
 class Validate
 {

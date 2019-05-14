@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-validate",
+    "name": "tp51/think-validate",
     "description": "think validate",
     "license": "Apache-2.0",
     "authors": [
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "think\\": "src"
+            "tp51\\": "src"
         },
         "files": [
         ]

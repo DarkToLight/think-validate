@@ -9,7 +9,7 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
-namespace think\validate;
+namespace tp51\validate;
 
 /**
  * Class ValidateRule
